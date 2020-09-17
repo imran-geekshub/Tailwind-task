@@ -47,7 +47,7 @@ const Footer=(props)=> {
            <div className="pt-2 text-gray-700 font-semibold "><p>The latest news, articles, and resourses, sent to your inbox weekly.</p></div>
            <div className="flex pt-4">
            <div><input type="text" placeholder="Enter Your Email" className="mr-2 border rounded p-2 "/></div>
-           <div><button className="mr-2 bg-indigo-700  text-white p-2 font-medium rounded outline-none"> Get Started</button>
+           <div><button className="mr-2 bg-indigo-700  text-white p-2 font-medium rounded outline-none">Submit</button>
            </div>
            </div>
           </div>
