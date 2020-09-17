@@ -21,7 +21,7 @@ export const Aboutus = (props) => {
           {/**Team Crad start */}
           <div className="flex pr-4 pb-4">
             <div className="w-2/4">
-              <img src="resources-benefits-employees-want-most-min-768x483-1-e1540508225245.jpg" alt="team" className=" border rounded-lg " />
+              <img src="1.jpg" alt="team" className=" border rounded-lg " />
             </div>
             <div className="w-3/4 pl-2">
             <div className="text-xl font-semibold"><p>Alberto Del Rio</p></div>
@@ -65,7 +65,7 @@ export const Aboutus = (props) => {
           {/**Team Crad start */}
           <div className="flex pr-4 pb-4 pt-4">
             <div className="w-2/4 ">
-              <img src="why-are-employee-self-evaluations-so-important.jpg" alt="team" className=" border rounded-lg " />
+              <img src="1.jpg" alt="team" className=" border rounded-lg " />
             </div>
             <div className="w-3/4 pl-2">
             <div className="text-xl font-semibold"><p>Romeo Alexander</p></div>
